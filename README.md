@@ -20,6 +20,7 @@ I'm Vinicius, a backend developer, mainly focused on **Java** and **Microservice
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=flat-square&logo=rabbitmq)
 
 ### Statistics
 
