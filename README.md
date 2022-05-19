@@ -19,8 +19,10 @@ I'm Vinicius, a backend developer, mainly focused on **Java** and **Microservice
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=336791)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=flat-square&logo=rabbitmq)
+![Postman](https://img.shields.io/badge/Postman-05122A?style=flat-square&logo=postman)&nbsp;
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-05122A?style=flat-square&logo=rabbitmq)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)&nbsp;
+![Amazon](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
 
 ### Statistics
 
