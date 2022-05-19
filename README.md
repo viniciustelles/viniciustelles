@@ -1,4 +1,4 @@
-## Hi there 👋 It's me, Vinicius! 
+## Hi there 👋  
 
 <img src="https://komarev.com/ghpvc/?username=viniciustelles&label=Profile%20views&color=0e75b6&style=flat" alt="viniciustelles" /> [![GitHub followers](https://img.shields.io/github/followers/viniciustelles?label=Follow&style=social)](https://github.com/ggsant/?tab=follow)
 
