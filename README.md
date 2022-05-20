@@ -23,6 +23,8 @@ I'm Vinicius, a backend developer, mainly focused on **Java** and **Microservice
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-05122A?style=flat-square&logo=rabbitmq)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-05122A?style=flat-square&logo=Spring)&nbsp;
 ![Amazon](https://img.shields.io/badge/Amazon_AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat-square&logo=amazonaws)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-05122A?style=flat-square&logo=amazonaws)&nbsp;
 
 ### Statistics
 
